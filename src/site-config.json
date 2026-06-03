@@ -1,6 +1,6 @@
 {
-  "github": { "owner": "ivanponcef", "repo": "ivan-ponce-dev-portfolio" },
-  "domain": "https://ryze.pages.dev",
+  "github": { "owner": "ivanponcef", "repo": "ivanponce.dev" },
+  "domain": "https://ivanponce.dev",
   "bNavigation": true,
   "homeLabel": "home",
   "navigationItems": ["portfolio", "blog"],
