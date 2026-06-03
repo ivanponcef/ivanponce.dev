@@ -1,0 +1,45 @@
+{
+  "github": { "owner": "ivanponcef", "repo": "ivan-ponce-dev-portfolio" },
+  "domain": "https://ryze.pages.dev",
+  "bNavigation": true,
+  "homeLabel": "home",
+  "navigationItems": ["portfolio", "blog"],
+  "bPageFind": true,
+  "bThemeToggle": true,
+  "bRssFeed": false,
+  "bIntroduction": true,
+  "introduction": {
+    "badges": [
+      { "label": "Senior Backend Engineer", "color": "#4b5563" },
+      { "label": "Python", "color": "#2563eb" },
+      { "label": "AI", "color": "#0d9488" }
+    ],
+    "heading": "Ivan Ponce",
+    "subHeadingItems": [
+      {
+        "type": "mail",
+        "label": "ivanponcedev@gmail.com",
+        "url": "mailto:ivanponcedev@gmail.com"
+      },
+      {
+        "type": "address",
+        "label": "Medellín, Colombia",
+        "url": "https://www.google.com/maps/place/Medellín,+Antioquia,+Colombia"
+      }
+    ],
+    "socialItems": [
+      { "type": "linkedin", "url": "https://www.linkedin.com/in/ivan-ponce-063412167/" },
+      { "type": "github", "url": "https://github.com/ivanponcef" }
+    ],
+    "description": "Senior Python backend engineer with 11+ years of experience building scalable systems across fintech, healthtech, and edtech. Currently designing production AI infrastructure — LLM-powered chatbots, RAG pipelines, and semantic search — for a health-tech platform serving 120K+ users worldwide.",
+    "ctaItems": [
+      { "label": "Resume", "url": "/resume", "variant": "default", "color": "#2563eb" },
+      { "label": "Download CV", "url": "/ivan-ponce-cv.pdf", "variant": "outline" }
+    ]
+  },
+  "featured": {
+    "portfolio": { "visible": true },
+    "blog": { "visible": true },
+    "important": "portfolio"
+  }
+}

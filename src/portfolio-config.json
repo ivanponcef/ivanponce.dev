@@ -1,0 +1,62 @@
+[
+  {
+    "id": "placeholder-ai-chatbot",
+    "data": {
+      "date": "01-06-2026",
+      "category": "ai",
+      "title": "AI Chatbot / RAG Pipeline",
+      "description": "Conversational chatbot with RAG pipeline, semantic search, and multi-provider LLM integration",
+      "tags": ["Python", "FastAPI", "LangChain", "RAG", "AWS Bedrock"],
+      "status": "prototype"
+    },
+    "introduction": "Project demonstrating applied AI experience: a conversational chatbot backed by a full RAG pipeline with semantic search capabilities. Aligned with production work on LLM-powered infrastructure but built as an independent open-source project.",
+    "links": [
+      { "label": "gitHub", "url": "https://github.com/ivanponcef" }
+    ],
+    "video": null,
+    "brief": {
+      "capabilities": ["Coming soon — project in active development"],
+      "architecture": ["Coming soon — project in active development"]
+    }
+  },
+  {
+    "id": "placeholder-ai-second",
+    "data": {
+      "date": "01-06-2026",
+      "category": "ai",
+      "title": "AI Project #2",
+      "description": "Second AI-focused project to reinforce applied AI positioning — agent, data pipeline, or CLI tool with LLM integration",
+      "tags": ["Python"],
+      "status": "prototype"
+    },
+    "introduction": "A second AI project taking a different approach from the chatbot — potentially an autonomous agent, an LLM-powered data pipeline, or a CLI tool with AI capabilities.",
+    "links": [
+      { "label": "gitHub", "url": "https://github.com/ivanponcef" }
+    ],
+    "video": null,
+    "brief": {
+      "capabilities": ["Coming soon — project in active development"],
+      "architecture": ["Coming soon — project in active development"]
+    }
+  },
+  {
+    "id": "placeholder-portfolio-site",
+    "data": {
+      "date": "01-06-2026",
+      "category": "software",
+      "title": "ivanponce.dev",
+      "description": "Personal portfolio and blog built with Astro, showcasing backend and AI engineering work",
+      "tags": ["Astro", "TypeScript", "Cloudflare Pages"],
+      "status": "production"
+    },
+    "introduction": "This portfolio site itself — built with Astro using the Ryze theme, deployed on Cloudflare Pages. Demonstrates ability to deliver a complete product end-to-end. In a future phase, it will include a FastAPI-powered chatbot as an Astro island, making it a more technically interesting project.",
+    "links": [
+      { "label": "gitHub", "url": "https://github.com/ivanponcef" }
+    ],
+    "video": null,
+    "brief": {
+      "capabilities": ["Coming soon — project in active development"],
+      "architecture": ["Coming soon — project in active development"]
+    }
+  }
+]

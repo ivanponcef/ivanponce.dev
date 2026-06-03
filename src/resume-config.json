@@ -1,0 +1,247 @@
+{
+  "name": "Ivan Ponce",
+  "profession": "Senior Backend Engineer",
+  "summary": "Senior Python backend engineer with 11+ years of experience building scalable systems across fintech, healthtech, and edtech. Currently designing production AI infrastructure — LLM-powered chatbots, RAG pipelines, and semantic search — for a health-tech platform serving 120K+ users worldwide.",
+  "email": "ivanponcedev@gmail.com",
+  "phone": "(+57) 304 545 9901",
+  "location": {
+    "city": "Medellín",
+    "state": "Antioquia",
+    "country": "Colombia"
+  },
+  "website": "",
+  "socials": [
+    {
+      "platform": "linkedin",
+      "username": "ivan-ponce-063412167",
+      "url": "https://www.linkedin.com/in/ivan-ponce-063412167/"
+    },
+    {
+      "platform": "github",
+      "username": "ivanponcef",
+      "url": "https://github.com/ivanponcef"
+    }
+  ],
+  "experience": [
+    {
+      "organization": "Sonar Health, Inc.",
+      "position": "Senior Backend Engineer",
+      "employmentType": "Full-time",
+      "location": "New York (Remote)",
+      "startDate": "2025-12-01",
+      "endDate": "Present",
+      "responsibility": "Architecting AI-powered backend infrastructure for a health-tech platform processing wearable data from 60+ device integrations across 170+ countries.",
+      "highlights": [
+        "Designed and implemented an AI-powered Insights Chatbot integrating multiple LLM providers (AWS Bedrock, OpenRouter), enabling natural language interaction with personal health data — launched to 120K+ users in Q1 2026.",
+        "Built the full RAG infrastructure: short- and long-term memory management, semantic search, and contextual reasoning over millions of wearable data points.",
+        "Developed high-performance data processing pipelines using columnar formats (Parquet) and Polars to efficiently handle large-scale wearable datasets at ingestion and query time.",
+        "Incorporated AI-assisted development workflows (Claude, coding agents) to accelerate prototyping, system design exploration, and iterative delivery."
+      ],
+      "technologies": ["Python", "FastAPI", "PostgreSQL", "AWS Bedrock", "OpenRouter", "RAG", "Polars", "Parquet", "Docker", "AWS"]
+    },
+    {
+      "organization": "Primehammer Ltd",
+      "position": "Backend Software Engineer",
+      "employmentType": "Full-time",
+      "location": "Prague, Czech Republic (Remote)",
+      "startDate": "2024-11-01",
+      "endDate": "2025-11-30",
+      "responsibility": "Building and maintaining a national-scale student enrollment platform used across multiple U.S. school districts.",
+      "highlights": [
+        "Built and maintained a large-scale enrollment platform connecting students with schools across multiple districts, each with customized admission rules and seat allocation logic.",
+        "Developed core platform features including the guardian portal, seat management system, and administrative tools for schools and districts.",
+        "Built complementary systems for notifications, event management, and CSM."
+      ],
+      "technologies": ["Python", "Django", "GraphQL", "PostgreSQL", "AWS"]
+    },
+    {
+      "organization": "Tesorio, Inc.",
+      "position": "Backend Software Engineer",
+      "employmentType": "Full-time",
+      "location": "San Francisco (Remote)",
+      "startDate": "2023-07-01",
+      "endDate": "2024-08-31",
+      "responsibility": "Building financial analysis and payment processing features for an accounts receivable automation platform.",
+      "highlights": [
+        "Worked with the CashPro team to build a customized cash flow projection product for Bank of America, enabling financial analysts to model and forecast cash positions across client portfolios.",
+        "Designed and built the Payments Portal, a production-grade tool processing real financial transactions on behalf of Tesorio's end customers, including full test coverage and QA ownership.",
+        "Joined the core product team supporting collections, communications, and payment workflows."
+      ],
+      "technologies": ["Python", "Django", "DRF", "PostgreSQL", "AWS"]
+    },
+    {
+      "organization": "Allstars IT / Fragomen, Del Rey, Bernsen & Loewy",
+      "position": "Backend Software Engineer",
+      "employmentType": "Full-time",
+      "location": "Remote",
+      "startDate": "2022-08-01",
+      "endDate": "2023-06-30",
+      "responsibility": "Developing backend features for a New York-based immigration case management platform.",
+      "highlights": [
+        "Built backend functionalities for Fragomen's in-house platform as part of the Configuration team, adding support for new migration case types for foreign nationals.",
+        "Worked with Python, Django, DRF, and PostgreSQL in a large-scale legal-tech codebase."
+      ],
+      "technologies": ["Python", "Django", "DRF", "PostgreSQL"]
+    },
+    {
+      "organization": "Tesorio, Inc.",
+      "position": "Backend Software Engineer",
+      "employmentType": "Full-time",
+      "location": "San Francisco (Remote)",
+      "startDate": "2022-01-01",
+      "endDate": "2022-06-30",
+      "responsibility": "Managing ERP integrations and customer onboarding for an accounts receivable automation platform.",
+      "highlights": [
+        "Part of the Integrations Team, responsible for syncing financial data between Tesorio and multiple ERP systems (NetSuite, QuickBooks, Sage, etc.) via their APIs — ensuring data consistency for downstream product teams.",
+        "Designed and built features for the customer registration and onboarding flow."
+      ],
+      "technologies": ["Python", "Django", "DRF", "PostgreSQL", "AWS"]
+    },
+    {
+      "organization": "UruIT S.A.S.",
+      "position": "Senior Backend Developer",
+      "employmentType": "Full-time",
+      "location": "Medellín, Colombia",
+      "startDate": "2018-09-01",
+      "endDate": "2022-01-31",
+      "responsibility": "Leading backend development for a full legacy system rewrite for a Boston-based real estate and property management company.",
+      "highlights": [
+        "Part of a 10+ engineer team that successfully led a full legacy system rewrite over 12+ months, adopting a modern Python/Django stack from the ground up.",
+        "Owned design and implementation of key subsystems: user management, authentication, labor & materials tracking, and a configurable rules engine."
+      ],
+      "technologies": ["Python", "Django", "DRF", "PostgreSQL", "AWS"]
+    },
+    {
+      "organization": "Iniciativas Digitales S.A.S. (Comparamejor.com)",
+      "position": "Mid-level Python/Django Engineer",
+      "employmentType": "Full-time",
+      "location": "Bogotá, Colombia",
+      "startDate": "2016-12-01",
+      "endDate": "2018-09-30",
+      "responsibility": "Building a new version of an insurance and financial services comparison platform for a Colombian startup.",
+      "highlights": [
+        "Built a new version of the system migrating from a legacy stack to Python/Django, DRF, GraphQL, and PostgreSQL.",
+        "Designed and implemented authentication flows, funnel logic, rules systems, and notification mechanisms."
+      ],
+      "technologies": ["Python", "Django", "DRF", "GraphQL", "PostgreSQL", "AWS"]
+    },
+    {
+      "organization": "Cyxtera Technologies",
+      "position": "Software Engineer",
+      "employmentType": "Full-time",
+      "location": "Bogotá, Colombia",
+      "startDate": "2016-06-01",
+      "endDate": "2016-12-31",
+      "responsibility": "Building electronic fraud detection features for financial institutions.",
+      "highlights": [
+        "Designed and built features for the DBS Client product, an electronic fraud detection platform for financial institutions."
+      ],
+      "technologies": ["Java"]
+    },
+    {
+      "organization": "Ritbox S.A.S.",
+      "position": "Developer Analyst",
+      "employmentType": "Full-time",
+      "location": "Bogotá, Colombia",
+      "startDate": "2015-01-01",
+      "endDate": "2016-01-31",
+      "responsibility": "Feature development for a major Colombian bank's loans area.",
+      "highlights": [
+        "Developed features for one of the main banks of Bogotá, working in the loans management area."
+      ],
+      "technologies": []
+    },
+    {
+      "organization": "Vittic S.A.S.",
+      "position": "Software Engineer",
+      "employmentType": "Full-time",
+      "location": "Bogotá, Colombia",
+      "startDate": "2014-06-01",
+      "endDate": "2014-12-31",
+      "responsibility": "Co-founded a software development company building solutions for international clients.",
+      "highlights": [
+        "Co-founded a software development company with friends, delivering projects for international clients including a group of churches in the USA.",
+        "First professional experience working with Python and Django."
+      ],
+      "technologies": ["Python", "Django"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Distrital Francisco José de Caldas",
+      "degree": "Bachelor of Engineering",
+      "fieldOfStudy": "Systems Engineering — Software Engineering",
+      "startDate": "2009-01-01",
+      "endDate": "2015-12-31",
+      "grade": "",
+      "coursework": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "tags": ["Python", "SQL", "Java"]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "tags": ["Django", "FastAPI", "DRF", "GraphQL", "Celery"]
+    },
+    {
+      "name": "AI / ML",
+      "tags": ["LLMs", "RAG", "Semantic Search", "AWS Bedrock", "OpenRouter"]
+    },
+    {
+      "name": "Databases",
+      "tags": ["PostgreSQL", "MySQL", "MongoDB"]
+    },
+    {
+      "name": "Cloud & Infrastructure",
+      "tags": ["AWS", "Docker", "CI/CD", "GitHub Actions"]
+    },
+    {
+      "name": "Data Processing",
+      "tags": ["Polars", "Parquet", "Pandas"]
+    },
+    {
+      "name": "Tooling & Practices",
+      "tags": ["Git", "Jira", "REST APIs", "Microservices", "AI-Assisted Development"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "AI Chatbot / RAG Pipeline",
+      "description": "Conversational chatbot with RAG pipeline, semantic search, and multi-provider LLM integration.",
+      "url": "https://github.com/ivanponcef",
+      "highlights": ["Coming soon — project in active development"],
+      "technologies": ["Python", "FastAPI", "LangChain", "RAG", "AWS Bedrock"]
+    },
+    {
+      "name": "AI Project #2",
+      "description": "Second AI-focused project — agent, data pipeline, or CLI tool with LLM integration.",
+      "url": "https://github.com/ivanponcef",
+      "highlights": ["Coming soon — project in active development"],
+      "technologies": ["Python"]
+    },
+    {
+      "name": "ivanponce.dev",
+      "description": "Personal portfolio and blog built with Astro, showcasing backend and AI engineering work.",
+      "url": "https://github.com/ivanponcef",
+      "highlights": ["Coming soon — project in active development"],
+      "technologies": ["Astro", "TypeScript", "Cloudflare Pages"]
+    }
+  ],
+  "certifications": [],
+  "courses": [],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional Working Proficiency"
+    }
+  ],
+  "volunteering": [],
+  "publications": []
+}
